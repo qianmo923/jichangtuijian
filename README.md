@@ -18,16 +18,15 @@
 | 序号 | 机场名称 | 节点类型 | 💰 价格参考 (元) | 🔗 官网/注册链接 |
 | :---: | :--- | :---: | :--- | :--- |
 | 1 | **69云（有高倍率）** | 专线 | `11.62元` / 100G  `16.68元` / 400G  `28.46元` / 800G | [🚀 点击前往注册](https://78uhiuausd.69yun69.com/uuid/auth/register?code=Cr280o) |
-| 2 | **Netsyo（极力推荐，不好用可退款）** | 专线 | `10元` / 150G  `24元` / 240G  `42元` / 423G  `58元` / 580G | [🚀 点击前往注册](https://hi.netsyo.pro/#/invite/lFVGeUoD) |
-| 3 | **良心云（有低倍率）** | 直连 | `2元` / 100G  `4元` / 500G  `6元` / 1000G  `21元` / 1000G (永久) | [🚀 点击前往注册](https://xn--9kqz23b19z.com/#/register?code=msNDGmBf) |
-| 4 | **赔钱机场（有低倍率）** | 直连 | `2.99元` / 500G  `5.99元` / 1000G  `12.99元` / 5000G | [🚀 点击前往注册](https://xn--cp3a08l.com/register?code=yfUwVvmt&cover=sfw) |
-| 5 | **两元店** | 中转 | 中转季付: `18元` / 1024G  直连季付: `8元` / 1024G | [🚀 点击前往注册](https://xn--5hqx9equq.com/#/register?code=piIzrG9s) |
-| 6 | **雪山** | 中转 | `9.9元` / 500G  年付: `29.9元` / 每月200G  `39.9元` / 10000G | [🚀 点击前往注册](https://xh.xueshan.us/#/register?code=zkbM32XF) |
-| 7 | **KTM** | 中转 | 季付: `20.97元` / 每月500G  `13.98元` / 1024G | [🚀 点击前往注册](https://ktmclub.net/#/register?code=W34nYd0l) |
-| 8 | **悦通** | 中转 | `12.9元` / 1000G  `25元` / 2000G  年付: `49.9元` / 每月200G | [🚀 点击前往注册](https://ul48.yue.to/#/register?code=4KUWIvgU) |
-| 9 | **亏本机场（有低倍率）** | 直连 | `1.99元` / 500G  `3.99元` / 1111G | [🚀 点击前往注册](https://xn--7kq24s4ynvb.site/#/register?code=X0fCQPck) |
-| 10| **一分机场（有低倍率）** | 直连 | `2元` / 100G   `6元` / 1000G  `19.88元` / 1000G (永久) | [🚀 点击前往注册](https://xn--9kqz23b19z.com/#/register?code=msNDGmBf) |
-| 11| **凌云** | 直连 | `6.6元` / 9999G  `6.6元` / 100G (永久) | [🚀 点击前往注册](https://ly.ccwink.art/#/register?code=dCwgKUV0) |
+| 2 | **良心云（有低倍率）** | 直连 | `2元` / 100G  `4元` / 500G  `6元` / 1000G  `21元` / 1000G (永久) | [🚀 点击前往注册](https://xn--9kqz23b19z.com/#/register?code=msNDGmBf) |
+| 3 | **赔钱机场（有低倍率）** | 直连 | `2.99元` / 500G  `5.99元` / 1000G  `12.99元` / 5000G | [🚀 点击前往注册](https://xn--cp3a08l.com/register?code=yfUwVvmt&cover=sfw) |
+| 4 | **两元店** | 中转 | 中转季付: `18元` / 1024G  直连季付: `8元` / 1024G | [🚀 点击前往注册](https://xn--5hqx9equq.com/#/register?code=piIzrG9s) |
+| 5 | **雪山** | 中转 | `9.9元` / 500G  年付: `29.9元` / 每月200G  `39.9元` / 10000G | [🚀 点击前往注册](https://xh.xueshan.us/#/register?code=zkbM32XF) |
+| 6 | **KTM** | 中转 | 季付: `20.97元` / 每月500G  `13.98元` / 1024G | [🚀 点击前往注册](https://ktmclub.net/#/register?code=W34nYd0l) |
+| 7 | **悦通** | 中转 | `12.9元` / 1000G  `25元` / 2000G  年付: `49.9元` / 每月200G | [🚀 点击前往注册](https://ul48.yue.to/#/register?code=4KUWIvgU) |
+| 8 | **亏本机场（有低倍率）** | 直连 | `1.99元` / 500G  `3.99元` / 1111G | [🚀 点击前往注册](https://xn--7kq24s4ynvb.site/#/register?code=X0fCQPck) |
+| 9 | **一分机场（有低倍率）** | 直连 | `2元` / 100G   `6元` / 1000G  `19.88元` / 1000G (永久) | [🚀 点击前往注册](https://xn--9kqz23b19z.com/#/register?code=msNDGmBf) |
+| 10| **凌云** | 直连 | `6.6元` / 9999G  `6.6元` / 100G (永久) | [🚀 点击前往注册](https://ly.ccwink.art/#/register?code=dCwgKUV0) |
 
 *(注：以上价格仅供参考，具体价格与套餐详情请以各机场官网最新公告为准，没标注的都是全一倍。表格中的链接均带有邀请码/AFF，使用上述链接注册是对本项目的最大支持！)*
 
