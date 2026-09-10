@@ -75,7 +75,7 @@
 | 5 | **雪山** `🎬送Emby` | `9.9元` / 500G · 年付: `29.9元` / 每月200G · `39.9元` / 10000G | [🚀 前往注册](https://xh.xueshan.us/#/register?code=2wg67Zuc) |
 | 6 | **KTM** `八五折码:OFF85` | 季付: `20.97元` / 每月500G · `13.98元` / 1024G | [🚀 前往注册](https://ktm001.pro/#/register?code=W34nYd0l) |
 | 7 | **喵喵** | `10元` / 120G · `18元` / 250G · `35元` / 500G | [🚀 前往注册](https://nachoneko.cc/#/register?code=SsqPHwRT) |
-| 8 | **NiceDuck** `🎬送Emby` | `16元` / 100G · `26元季付` / 每月60G | [🚀 前往注册](https://x.niceduck.sh/register?code=pr2T3132) |
+| 8 | **NiceDuck** | `16元` / 100G · `26元季付` / 每月60G | [🚀 前往注册](https://x.niceduck.sh/register?code=pr2T3132) |
 
 <br>
 
